@@ -6,3 +6,4 @@ Ce projet est une introduction à l'utilisation de Git
 - Sabrinah : Mainteneur & dev2
 
 ## Fin du TP
+# Version 1.0.0
